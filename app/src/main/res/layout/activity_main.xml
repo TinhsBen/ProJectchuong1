@@ -20,6 +20,18 @@
         android:text="Tháng 1 - 2023"
         android:textColor="@color/white" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tháng" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="năm" />
+
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
